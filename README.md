@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Jeremy Forest](jeremyforest.com)
+### Hi there 👋 I'm [Jeremy Forest](https://jeremyforest.com)
 I'm a bit of a jack of all trade. A neuroscientist by training, turned artificial neural network researcher and engineer, neuromorphics engineer and software developer.
 I love exploring new things ! 
 
