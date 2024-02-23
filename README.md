@@ -9,15 +9,18 @@ I love exploring new things !
 - 🔭 One of my personal projects include:
   - Getting my [homelab](https://github.com/jeremyforest/homelab) in a state compatible with Infrastructure-as-Code. Its slow going ;)
 
-- 🌱 I’m currently learning Generative-AI to code up an [personal learning assistant](https://github.com/jeremyforest/eduLLM) aimed at helping students learn more efficiently. 
+- 🌱 I’m currently learning Generative-AI to code up a [personal learning assistant](https://github.com/jeremyforest/eduLLM) aimed at helping students learn more efficiently. 
 
 - 👯 I’m looking to collaborate on various research projects. 
   - I am looking at how brain-inspired activity rules can help artificial neural network learn more sparsly and efficiently.
-  - I want to investigate how similar dendrite computation are to transformers computations and if dendritic-inspired computation can enhance transformer-like networks in spiking nets.    
+  - I want to investigate how similar dendrite computations are to transformer computations and if dendritic-inspired computations can enhance transformer-like networks in spiking nets.    
 
-- 💬 Ask me about anything! Really :) 
+- 💬 Ask me about anything! Really :)
+   
 - 📫 You can reach me at jerem.forest@gmail.com
+
 - 😄 Pronouns: he/him
+
 - ⚡ Fun fact: My 2 years-old twins like sticking sticker on my face
 
 
